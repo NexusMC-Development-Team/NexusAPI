@@ -1,6 +1,6 @@
 # NexusMC API Client Documentation
 
-This is outdated, I would check the Wiki!
+This is outdated, I would check the Wiki.
 
 The NexusAPI will allow you to lookup open player data that is not sensitive info. This includes colectables, ext. Please do not find a way to abuse this. This is for testing purpuses only. We will block spam from IP's, this will count as being blocked on the network as well.
 
