@@ -6,8 +6,8 @@ ranks_api = nexusmc_api.NexusMCRanks()
 friends_api = nexusmc_api.NexusMCFriends()
 
 # Example usage
-uuid = "a049df05-4833-4eb9-ba71-ba59d3645cf8"
-username = "railenbailen"
+uuid = "a049df05-4833-4eb9-ba71-ba59d3645cf8" # does not have to be a049df05-4833-4eb9-ba71-ba59d3645cf8
+username = "railenbailen" # does not have to be railenbailen
 
 user_data_by_uuid = default_api.get_user_by_uuid(uuid)
 user_data_by_username = default_api.get_user_by_username(username)
